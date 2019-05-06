@@ -18,4 +18,7 @@ The parameters of the simulation can be modified at the beginning of the animate
 
 ### Large gaussian wave packet through one slit
 
-![Alt text](animation/2D_2slits_dx008_dt0005_yf10.gif?raw=true "Title")
+
+
+
+![Alt text](https://github.com/FelixDesrochers/Electron-diffraction/blob/master/animation/2D_2slits_dx008_dt0005_yf10.gif?raw=true "Title")
