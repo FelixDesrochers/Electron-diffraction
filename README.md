@@ -17,8 +17,10 @@ The parameters of the simulation can be modified at the beginning of the animate
 ## Examples
 
 ### Large gaussian wave packet through one slit
+![Alt text](https://github.com/FelixDesrochers/Electron-diffraction/blob/master/animation/one_slit_thick.gif?raw=true "Title")
 
+### Small gaussian wave packet through one slit
+![Alt text](https://github.com/FelixDesrochers/Electron-diffraction/blob/master/animation/2D_oneslit_dx008_dt0005_yf1.gif?raw=true "Title")
 
-
-
+### Large gaussian wave packet through two slits
 ![Alt text](https://github.com/FelixDesrochers/Electron-diffraction/blob/master/animation/2D_2slits_dx008_dt0005_yf10.gif?raw=true "Title")
