@@ -16,7 +16,7 @@ The parameters of the simulation (shape and size of the potential, shape and spe
 
 ## Examples
 
-Here are some examples of animations produced by the program. We can see that in the large gaussian wave packet limit, a diffraction pattern similar to the one obtain in the Fraunhoffer approximation of the diffraction of a plane wave. For a more elaborate dicusssion on the expected shape of the diffraction pattern of a gaussian wave packet see for example
+Here are some examples of animations produced by the program. We can see that in the large gaussian wave packet limit, a diffraction pattern similar to the one obtain in the Fraunhoffer approximation of the diffraction of a plane wave. For a more elaborate dicusssion on the expected shape of the diffraction pattern of a gaussian wave packet see for example:
 
 Zecca, A. (2013). Gaussian wave packets passing through two slits: contribution of confinement and tunneling to the diffraction pattern. Adv. Studies Theor. Phys, 7, 287.
 
